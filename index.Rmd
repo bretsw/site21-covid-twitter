@@ -36,7 +36,7 @@ class: inverse, center, middle
 
 # View Slides
 
-[bretsw.com/site21-covid-twitter](https://bretsw.com/site21-covid-twitter)
+[bretsw.com/site21-covid-twitter](http://bretsw.com/site21-covid-twitter)
 
 ---
 
@@ -583,4 +583,4 @@ include_graphics("img/across-the-pond.png")
 - [@chrisgreenhow](https://twitter.com/chrisgreenhow)
 - [@CathyLewin](https://twitter.com/CathyLewin)
 
-**Slides:** [bretsw.com/site21-covid-twitter](https://bretsw.com/site21-covid-twitter)
+**Slides:** [bretsw.com/site21-covid-twitter](http://bretsw.com/site21-covid-twitter)
